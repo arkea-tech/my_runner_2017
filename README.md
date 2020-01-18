@@ -6,3 +6,5 @@ First year project in C + SFML Library. The goal of this project is to create an
 USING : 1) Make 2) ./my_runner map.txt.
 
 KEYS MAPPING : SPACE to jump.
+
+![Image description](cover.jpg)
